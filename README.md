@@ -10,7 +10,7 @@
 <br/>
 
 
-- 🌱 I’m currently learning **Aptech**
+- 🌱 I’m currently learning **Posts and Telecommunications Institute of Technology**
 
 - 💬 Ask me about **React, Spring Boot, Angular.**
 
